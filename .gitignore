@@ -1,0 +1,8 @@
+# Raw registrar exports are not redistributed; see README for where to get them.
+*.csv
+archive/
+
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.venv/
